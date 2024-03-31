@@ -15,6 +15,16 @@
 
 - ⚡ Fun fact **I learn in my dreams.**
 
+
+| HR Analytics Dashboard | Playstore Dashboard |
+|:----------------------:|:-------------------:|
+| ![HR Analytics Dashboard]() | ![Tableau Playstore Dashboard]![TableauPublic-Play_Store_Analysis2024-03-2911-59-34-ezgif com-video-to-gif-converter](https://github.com/VenkyAdi/VenkyAdi/assets/38469568/d73e827d-a772-4f70-b872-eb21b3674b1c)
+() |
+
+| AirBnb Dashboard |
+|:------------------:|:-------------:|
+| ![AirBnb Dashboard ]()
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/venkat-aditya-394085148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkat-aditya-394085148" height="30" width="40" /></a>
