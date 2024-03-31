@@ -18,13 +18,9 @@
 
 | HR Analytics Dashboard | Playstore Dashboard |
 |:----------------------:|:-------------------:|
-| [HR Analytics Dashboard](![30 03 2024_13 01 09_REC-ezgif com-video-to-gif-converter](https://github.com/VenkyAdi/VenkyAdi/assets/38469568/7f912b87-fb84-4c09-951e-472677949f68) | [Tableau Playstore Dashboard]![TableauPublic-Play_Store_Analysis2024-03-2911-59-34-ezgif com-video-to-gif-converter](https://github.com/VenkyAdi/VenkyAdi/assets/38469568/d73e827d-a772-4f70-b872-eb21b3674b1c)
- |
-
+|![30 03 2024_13 01 09_REC-ezgif com-video-to-gif-converter](https://github.com/VenkyAdi/VenkyAdi/assets/38469568/7f912b87-fb84-4c09-951e-472677949f68) |![TableauPublic-Play_Store_Analysis2024-03-2911-59-34-ezgif com-video-to-gif-converter](https://github.com/VenkyAdi/VenkyAdi/assets/38469568/d73e827d-a772-4f70-b872-eb21b3674b1c)
 | AirBnb Dashboard |
-|:------------------:|
-| ![AirBnb Dashboard ](![30 03 2024_09 08 31_REC-ezgif com-video-to-gif-converter](https://github.com/VenkyAdi/VenkyAdi/assets/38469568/435bf9f0-52eb-42bc-83cc-43ce47f1c302)
-)
+|![30 03 2024_09 08 31_REC-ezgif com-video-to-gif-converter](https://github.com/VenkyAdi/VenkyAdi/assets/38469568/435bf9f0-52eb-42bc-83cc-43ce47f1c302)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
